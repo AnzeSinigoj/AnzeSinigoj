@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @EncantYT
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing 
-- 📫 How to reach me  you can't!
+- � Hi, I’m @EncantYT
+- � I’m interested in IT
+- � I’m currently learning Python
 
 <!---
 EncantYT/EncantYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
