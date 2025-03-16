@@ -10,7 +10,7 @@ Check out my projects and contributions as I continue to grow!
 - I’m currently learning **PL/SQL** 💻📊 and **Bash scripting** 🐚.
 - I plan to learn **Python** 🐍 in the near future.
 - Fun fact: I am a licenced radio amateur!📡🎙️📻 Check out my QRZ profile [here](https://www.qrz.com/db/s56pas).
-- I enjoy working with **Linux** 🐧💻 .
+- I enjoy working with **Linux** 🐧💻.
 
 
 ### **root**@**life**:~$ cat /etc/skills.conf
