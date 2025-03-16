@@ -21,7 +21,7 @@ Check out my projects and contributions as I continue to grow!
 [System_Admin]
 Linux
 Proxmox
-Windows Server
+Windows_Server
 
 # Programming Languages
 [Programming]
@@ -31,6 +31,8 @@ Java
 
 # Databases
 [Databases]
+Data_Modeling
+Database_Design
 SQL
 # PL/SQL
 
