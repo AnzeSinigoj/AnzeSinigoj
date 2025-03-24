@@ -1,8 +1,7 @@
 
 # 👋 Hello, I'm Anže!
 
-I'm a developer and lifelong learner. Currently, I’m focused on learning **Cybersecurity** to understand how things work so I can pursue a career in the field in the future. 
-Check out my projects and contributions as I continue to grow!
+I'm a developer always learning, right now focused on understanding how things work so I can later get into **Cybersecurity**. Working on projects, making contributions, and just getting better. Also, I like being out in nature when I’m not glued to a screen.
 
 ## About Me
 
@@ -43,7 +42,7 @@ CSS
 JS
 ```
 
-### **root**@**life**:~$ cat lang-stats.log
+### **root**@**life**:~$ langtop
 ```python
 Languages Known:
 -----------------
