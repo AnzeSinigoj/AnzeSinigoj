@@ -5,7 +5,6 @@ I'm a developer always learning, right now focused on understanding how things w
 
 ## About Me
 
-- I’m currently working on [CMD Gambling Room](https://github.com/AnzeSinigoj/CMD-GamblingRoom) 🎮💻.
 - I’m currently learning **PL/SQL** 💻📊 and **Bash scripting** 🐚.
 - I plan to learn **Python** 🐍 in the near future.
 - Fun fact: I am a licenced radio amateur!📡🎙️📻 Check out my QRZ profile [here](https://www.qrz.com/db/s56pas).
