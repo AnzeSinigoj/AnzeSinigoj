@@ -16,26 +16,22 @@ I'm a developer always learning, right now focused on understanding how things w
 # Skills Configuration File
 
 # System Administration Skills
-[System_Admin]
 Linux
 Proxmox
 Windows_Server
 
 # Programming Languages
-[Programming]
 Java
 # Bash Scripting
 # Python
 
 # Databases
-[Databases]
 Data_Modeling
 Database_Design
 SQL
-# PL/SQL
+PL/SQL
 
 # Web Development Skills
-[Web_Development]
 HTML
 CSS
 JS
