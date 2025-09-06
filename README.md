@@ -1,17 +1,44 @@
 
-# 👋 Hello, I'm Anže!
+#  Hello, I'm Anže!
 
-I'm a developer always learning, right now focused on understanding how things work so I can later get into **Cybersecurity**. Working on projects, making contributions, and just getting better. Also, I like being out in nature when I’m not glued to a screen.
+### **root**@**life**:~$ whoami
+```
+I'm a developer learning the foundations of software and systems, aiming for cybersecurity.  
+Currently working on projects, contributing, and improving my skills.  
+Outside tech, I enjoy spending time in nature and tinkering with radios.  
+```
 
-## About Me
+### **root**@**life**:~$ cat /etc/personal.conf
+```ini
+# Personal Configuration File
 
-- I’m currently learning **C++** 💻.
-- I am a licenced radio amateur!📡🎙️📻 Check out my QRZ profile [here](https://www.qrz.com/db/s56pas).
-- I enjoy working with **Linux** 🐧💻.
+[Learning]
+language = C++
 
+[Future_Learning]
+topics = "Linux Internals, Basics of Electrotechnics"
+languages = "C, Assembly (interest)"
+
+[Hobbies]
+radio = licensed
+nature = frequent
+
+[System]
+os = Linux
+passion = true
+
+[Education]
+current = "FERI University of Maribor"
+previous = "Elektrotehniška in računalniška šola Nova Gorica"
+title = "Computer Science Technician"
+
+[Values]
+faith = "Catholic"
+principles = "Traditional"
+```
 
 ### **root**@**life**:~$ cat /etc/skills.conf
-```python
+```yaml
 # Skills Configuration File
 
 # System Administration Skills
@@ -21,7 +48,8 @@ Windows_Server
 
 # Programming Languages
 Java
-#C++
+#C, C++
+#ASM
 
 # Databases
 Data_Modeling
@@ -42,5 +70,5 @@ Languages Known:
 1. Slovenian   [Native]    ██████████  100% 
 2. English     [Fluent]    █████████   90%  
 3. Italian     [Fluent]    ████████    80%  
-4. Russian     [Learning]  ████        40%  
+4. Russian     [Learning]  ███         30%  
 ```
