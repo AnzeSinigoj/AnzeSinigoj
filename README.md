@@ -21,6 +21,7 @@ languages = "C, Assembly (interest)"
 
 [Hobbies]
 radio = licensed
+callsign = "S56PAS"
 nature = frequent
 
 [System]
