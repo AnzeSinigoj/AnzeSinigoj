@@ -5,8 +5,7 @@ I'm a developer always learning, right now focused on understanding how things w
 
 ## About Me
 
-- I’m currently learning **PL/SQL** 💻📊 and **Bash scripting** 🐚.
-- I plan to learn **Python** 🐍 in the near future.
+- I’m currently learning **C++** 💻.
 - I am a licenced radio amateur!📡🎙️📻 Check out my QRZ profile [here](https://www.qrz.com/db/s56pas).
 - I enjoy working with **Linux** 🐧💻.
 
@@ -22,8 +21,7 @@ Windows_Server
 
 # Programming Languages
 Java
-# Bash Scripting
-# Python
+#C++
 
 # Databases
 Data_Modeling
