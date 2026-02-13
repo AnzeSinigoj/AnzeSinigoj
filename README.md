@@ -3,9 +3,9 @@
 
 ### **root**@**life**:~$ whoami
 ```
-I'm a developer learning the foundations of software and systems, aiming for cybersecurity.  
-Currently working on projects, contributing, and improving my skills.  
-Outside tech, I enjoy spending time in nature and tinkering with radios.  
+CS student focused on low-level and embedded development.
+Interested in how systems work below the abstraction layer.
+Radio amateur, hardware tinkerer, outdoors when not at a terminal.
 ```
 
 ### **root**@**life**:~$ cat /etc/personal.conf
@@ -13,20 +13,12 @@ Outside tech, I enjoy spending time in nature and tinkering with radios.
 # Personal Configuration File
 
 [Learning]
-language = C++
-
-[Future_Learning]
-topics = "Linux Internals, Basics of Electrotechnics"
-languages = "C, Assembly (interest)"
+languages = "C++ (deepening)"
+topics = "Linux internals, basics of electrotechnics, embedded systems"
 
 [Hobbies]
 radio = licensed
 callsign = "S56PAS"
-nature = frequent
-
-[System]
-os = Linux
-passion = true
 
 [Education]
 current = "FERI University of Maribor"
@@ -38,26 +30,18 @@ title = "Computer Science Technician"
 ```yaml
 # Skills Configuration File
 
-# System Administration Skills
+# Systems:
 Linux
-Proxmox
-Windows_Server
+Virtualization (Proxmox)
+Basic system administration
 
 # Programming Languages
 Java
-#C, C++
-#ASM
+C++ (fundamentals)
 
-# Databases
-Data_Modeling
-Database_Design
-SQL
-PL/SQL
-
-# Web Development Skills
-HTML
-CSS
-JS
+# Others
+SQL / database fundamentals
+Web technologies (background)
 ```
 
 ### **root**@**life**:~$ langtop
