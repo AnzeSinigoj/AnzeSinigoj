@@ -32,10 +32,6 @@ passion = true
 current = "FERI University of Maribor"
 previous = "Elektrotehniška in računalniška šola Nova Gorica"
 title = "Computer Science Technician"
-
-[Values]
-faith = "Catholic"
-principles = "Traditional"
 ```
 
 ### **root**@**life**:~$ cat /etc/skills.conf
