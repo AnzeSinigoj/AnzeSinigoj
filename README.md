@@ -48,8 +48,8 @@ Web technologies (background)
 ```python
 Languages Known:
 -----------------
-1. Slovenian   [Native]    ██████████  100% 
-2. English     [Fluent]    █████████   90%  
-3. Italian     [Fluent]    ████████    80%  
-4. Russian     [Learning]  ███         30%  
+1. Slovenian   [Native]          ██████████  100% 
+2. English     [Fluent]          █████████   90%  
+3. Italian     [Conversational]  ███████     70%  
+4. Russian     [Learning]        ██          20%  
 ```
