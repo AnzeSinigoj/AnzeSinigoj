@@ -3,9 +3,9 @@
 
 ### **root**@**life**:~$ whoami
 ```
-CS student focused on low-level and embedded development.
-Interested in how systems work below the abstraction layer.
-Radio amateur, hardware tinkerer, outdoors when not at a terminal.
+CS student focused on Linux-based systems and low-level development.
+Interested in how software interacts with hardware beneath abstraction layers.
+Licensed radio amateur, hardware tinkerer, outdoors otherwise.
 ```
 
 ### **root**@**life**:~$ cat /etc/personal.conf
@@ -31,13 +31,13 @@ title = "Computer Science Technician"
 # Skills Configuration File
 
 # Systems:
-Linux
-Virtualization (Proxmox)
-Basic system administration
+Linux (daily driver, system configuration, troubleshooting)
+Virtualization (Proxmox - VM and LXC deployment)
+System administration (services, users, networking basics)
 
 # Programming Languages
 Java
-C++ (fundamentals)
+C++ (manual memory management, basic data structures, core language)
 
 # Others
 SQL / database fundamentals
