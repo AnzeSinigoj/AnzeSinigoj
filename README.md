@@ -13,8 +13,8 @@ Licensed radio amateur, hardware tinkerer, outdoors otherwise.
 # Personal Configuration File
 
 [Learning]
-languages = "C++ (deepening)"
-topics = "Linux internals, basics of electrotechnics, embedded systems"
+languages = "C"
+to_learn = "Linux internals, basics of electrotechnics, embedded systems"
 
 [Hobbies]
 radio = licensed
