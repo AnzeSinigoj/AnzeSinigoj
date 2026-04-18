@@ -37,7 +37,7 @@ System administration (services, users, networking basics)
 
 # Programming Languages
 Java
-C++ (manual memory management, basic data structures, core language)
+C++
 
 # Others
 SQL / database fundamentals
